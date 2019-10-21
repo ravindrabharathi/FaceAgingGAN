@@ -8,4 +8,10 @@ For the images of faces with various ages we will be using the UTKFace dataset w
 We will be using following two good references that use CycleGAN in order to build and train our models
 
 https://github.com/sungnam0/Face-Aging-with-CycleGAN
+
 https://machinelearningmastery.com/cyclegan-tutorial-with-keras/
+
+
+Face Aging GAN with complete training output : https://github.com/ravindrabharathi/FaceAgingGAN/blob/master/Face_Aging_CycleGAN.ipynb
+
+Face Aging GAN with training output removed (since the file with training output is huge and usually doesn't render well when viewed on Github) : https://github.com/ravindrabharathi/FaceAgingGAN/blob/master/Face_Aging_CycleGAN-without-training-output.ipynb
